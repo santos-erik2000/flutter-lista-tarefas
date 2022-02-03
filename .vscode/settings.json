@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "pomodoro.interval:30"
+    ]
+}
